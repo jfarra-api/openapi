@@ -1,5 +1,5 @@
 openapi: 3.0.3
-info:
+    info:
   title: EazyShop Products APIs Definition
   description: |
       # About Us
