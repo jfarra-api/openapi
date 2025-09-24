@@ -1,6 +1,6 @@
 openapi: 3.0.3
-    info:
-  title: EazyShop Products APIs Definition
+info:
+  title: EazyShop Products APIs Definition - By Julian
   description: |
       # About Us
       **EazyShop** is a open market product selling company. Any website can list our products by  using our _APIs_. Shipping & other logistics will be taken care by us. You will get an `Affiliate commision` for selling our products.
